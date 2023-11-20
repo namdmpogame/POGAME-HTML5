@@ -36,3 +36,5 @@ https://developers.google.com/interactive-media-ads/docs/sdks/html5/
 
 | Event | Description |
 | --- | --- |
+| AD_ERROR | When the ad it self has an error. | 
+| IMPRESSION | Fired when the impression URL has been pinged. |
